@@ -1,0 +1,22 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+#kekica{
+    font-size: 200px;
+}
+
+a {
+    text-align: center;
+    color: #000000;;
+    padding: 5px;
+    font-family: 'Open Sans',sans-serif;
+}
+
+a:hover {
+    color: hotpink;
+  }
+
+a:link {
+    text-decoration: none  }
